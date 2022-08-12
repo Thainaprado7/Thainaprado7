@@ -1,5 +1,5 @@
 
-                                                  Olá, seja bem-vindo ao meu Github!
+                                              Olá, seja bem-vindo ao meu Github!
 
 - 👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end;
 - 👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008 de agosto à dezembro de 2022;
