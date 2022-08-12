@@ -1,7 +1,12 @@
 ### Olá, seja bem-vindo ao meu Github!
 
-- 👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end
-- 👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008 de agosto à dezembro de 2022.
+- 👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end;
+- 👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008 de agosto à dezembro de 2022;
+- 👩‍🎓 Já estudei Direito e Psicologia;
+- 👩‍🔧 Mais de 5 anos de experiência em Experiência do Usuário, Gestão de projetos, Fluxos e Processos;
+- 👩‍💼 Atualmente trabalho com Treinamento e Desenvolvimento pelo Mercado Livre;
+
+                                ✨ Comunicação é um ponto forte | ✨ Adoro replicar conhecimento 
 
 ##
 
