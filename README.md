@@ -20,6 +20,6 @@
   <a href = "mailto:thaina.prado.psic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaina-prado-893b3b102/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Thainaprado7/Thainaprado7/edit/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/Thainaprado7/Thainaprado7/blob/output/github-contribution-grid-snake.gif)
  
 </div>
