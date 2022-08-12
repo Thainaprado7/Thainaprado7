@@ -1,4 +1,5 @@
-<h1 align="center"> Olá, seja bem-vindo ao meu Github!</h1>
+
+                                               ✨ Olá, seja bem-vindo ao meu Github!
 
 - 👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end;
 - 👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008 de agosto à dezembro de 2022;
