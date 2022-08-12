@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo ao meu Github!
 
 - 👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end
-- 👩‍🏫 Estudando a linguagem JavaScript pelo bootcamp na <Laboratória Brasil>
+- 👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008 de Agosto à dezembro de 2022.
 
 ##
 
