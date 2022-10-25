@@ -1,8 +1,8 @@
 
                                               Olá, seja bem-vindo ao meu Github!
 
-👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end;
-👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008.
+Em transição de carreira para área de Tecnologia - Dev Front-end;
+Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008.
 
 
 ✨ Comunicação é um ponto forte ✨ Adoro replicar conhecimento 
