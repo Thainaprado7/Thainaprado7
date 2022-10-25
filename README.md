@@ -1,13 +1,11 @@
 
                                               Olá, seja bem-vindo ao meu Github!
 
-- 👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end;
-- 👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008 de agosto à dezembro de 2022;
-- 👩‍🎓 Já estudei Direito e Psicologia;
-- 👩‍🔧 Mais de 5 anos de experiência em Experiência do Usuário, Gestão de projetos, Fluxos e Processos;
-- 👩‍💼 Atualmente trabalho com Treinamento e Desenvolvimento pelo Mercado Livre;
+👩🏻‍💻 Em transição de carreira para área de Tecnologia - Dev Front-end;
+👩‍🏫 Estudando JavaScript no Bootcamp da <Laboratória Brasil> turma SAP008.
 
-                                ✨ Comunicação é um ponto forte | ✨ Adoro replicar conhecimento 
+
+✨ Comunicação é um ponto forte ✨ Adoro replicar conhecimento 
 
 ##
 
@@ -20,7 +18,8 @@
     <img align="center" alt="Thai_js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Thai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Thai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div></br>
+ <img align="center" alt="Thai-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  </div></br>
   
 <div align="center"> 
   <a href = "mailto:thaina.prado.psic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
